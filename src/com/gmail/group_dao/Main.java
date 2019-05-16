@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		GroupHandler groupHandler = new GroupHandler();
+		GroupDao groupHandler = new GroupHandler();
 		Group group = groupHandler.getObject();
 		
 		group.getInfo("Name");
