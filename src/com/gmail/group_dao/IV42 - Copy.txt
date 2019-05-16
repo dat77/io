@@ -1,0 +1,8 @@
+Sas,Radvanskiy,1977-07-16,male,5.0
+Denis,Tkachuk,1977-09-14,male,4.3
+Max,Vostuk,2000-05-03,male,4.4
+Seva,Primavera,2000-05-05,male,4.5
+Senia,Igi,2000-11-22,female,3.9
+Eris,Ok!!!,2001-02-12,female,5.0
+Tiana,Vankoff,2001-12-09,female,3.9
+Mary,Christmas,2000-06-01,male,3.4

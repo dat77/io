@@ -1,0 +1,8 @@
+Senia,Igi,2000-11-22,female,3.9
+Eris,Ok!!!,2001-02-12,female,5.0
+Seva,Primavera,2000-05-05,male,4.5
+Sas,Radvanskiy,1977-07-16,male,5.0
+Denis,Tkachuk,1977-09-14,male,4.3
+Tiana,Vankoff,2001-12-09,female,3.9
+Max,Vostuk,2000-05-03,male,4.4
+Oscar,Wilde,1999-09-09,male,4.5
